@@ -169,19 +169,16 @@ With SoukHome, you can contribute to small buisnesses and help them grow!
               <div className="h6">Address</div>
               <hr />
               <address>
-                <strong>Twitter, Inc.</strong>
-                <br />
-                1355 Market St, Suite 900
+                <strong>Souk Home</strong>
                 <br />
                 Beirut, Lebanon
                 <br />
-                <abbr title="Phone">P:</abbr> (123) 456-7890
               </address>
               <div className="h6">Customer Care</div>
               <hr />
-              <IconTelephone /> +1800 100 1000
+              <IconTelephone /> +961 71783198
               <br />
-              <IconEnvelope /> info@email.com
+              <IconEnvelope /> info@soukhome.com
             </div>
           </div>
         </div>
