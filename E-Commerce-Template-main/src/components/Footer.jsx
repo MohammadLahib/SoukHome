@@ -63,13 +63,14 @@ const Footer = () => {
         <div className="container-fluid bg-dark text-white">
           <div className="row ">
             <div className="col-md-3 py-3">
-              <div className="h6">Company Name</div>
+              <div className="h6">Souk Home</div>
               <hr />
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book.
+              SoukHome is a shopping platform that allows you to visit your favorite stores online and buy your desired products from the comfort of your home!
+
+With SoukHome you can get the best offers and the fastest delivery serivce!
+
+With SoukHome, you can contribute to small buisnesses and help them grow!
               </p>
             </div>
             <div className="col-md-3 py-3">
