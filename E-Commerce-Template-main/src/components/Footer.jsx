@@ -173,7 +173,7 @@ With SoukHome, you can contribute to small buisnesses and help them grow!
                 <br />
                 1355 Market St, Suite 900
                 <br />
-                San Francisco, CA 94103
+                Beirut, Lebanon
                 <br />
                 <abbr title="Phone">P:</abbr> (123) 456-7890
               </address>
